@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gopi Krishna Pendyala</h1>
-<h3 align="center">A passionate developer from India</h3>
-
-- 🔭 I have worked on **AI-Driven traffic Management System**
-
-- 📫 How to reach me **gopikrishnapendyala1@gmail.com**
-
-<h3 align="left">Connect with me:</h3><h1 align="center">Hi 👋, I'm Gopi Krishna Pendyala</h1>
 <h3 align="center">Aspiring Software Engineer | ECE Student | Python Developer</h3>
 
 <p align="center">
