@@ -5,7 +5,122 @@
 
 - 📫 How to reach me **gopikrishnapendyala1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><h1 align="center">Hi 👋, I'm Gopi Krishna Pendyala</h1>
+<h3 align="center">Aspiring Software Engineer | ECE Student | Python Developer</h3>
+
+<p align="center">
+  <a href="mailto:gopikrishnapendyala1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/Gopi-Shetty">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/gopi-krishna-pendyala">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.E. Electronics & Communication Engineering (Minor in Computer Science)
+- 🏫 Vasavi College of Engineering
+- 💻 Interested in Software Development, AI, and Problem Solving
+- 🌱 Currently learning Data Structures & Algorithms, Backend Development, and AI Technologies
+- 🔭 Worked on **AI-Driven Intelligent Traffic Management System**
+- 👨‍💻 Passionate about building real-world software solutions
+- 🔗 LeetCode: https://leetcode.com/u/gopikrishnapendyala1/
+- 📫 Reach me at: **gopikrishnapendyala1@gmail.com**
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Technologies
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-AI-blue?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 💼 Projects
+
+### 🚦 AI-Driven Intelligent Traffic Management System
+**Tech Stack:** Python, YOLOv5, Flask, OpenCV
+
+- Built an AI-powered traffic signal management system.
+- Implemented vehicle detection and counting using YOLOv5.
+- Dynamically allocated signal timings based on traffic density.
+- Developed a web dashboard to monitor traffic conditions.
+
+### 🌍 Persistence of Vision (POV) Globe
+**Tech Stack:** Arduino Mega, WS2812B LEDs
+
+- Designed an embedded system using Arduino Mega.
+- Synchronized LED patterns with motor rotation.
+- Demonstrated real-time hardware-software integration.
+
+### 📊 ElectViz – U.S. Election Data Visualization Dashboard
+**Tech Stack:** Power BI
+
+- Developed interactive dashboards for election data analysis.
+- Performed data cleaning and transformation.
+- Created DAX measures and visual reports to analyze voting trends.
+
+---
+
+## 🏆 Certifications
+
+- 📜 NPTEL Certification in C Programming
+- 📜 NPTEL Certification in Digital System Design
+- 🏅 Smart India Hackathon (SIH) 2024 Participant
+- 🏅 Gen-AI Hackathon 2024 Participant
+
+---
+
+## 🤝 Leadership & Activities
+
+- Event Management Coordinator – SWAYAM Entrepreneurial Club
+- Design Lead – Google Developers Student Club (GDSC)
+- Participant – Code Mode, Silicon Synapses
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopi-Shetty&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopi-Shetty&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi-Shetty&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: **gopikrishnapendyala1@gmail.com**
+- 💼 LinkedIn: **https://linkedin.com/in/gopi-krishna-pendyala**
+- 💻 GitHub: **https://github.com/Gopi-Shetty**
+
+---
+
+⭐ If you like my projects, feel free to star the repositories and connect with me!
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/gopi-krishna-015767254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/gopi-krishna-015767254/" height="30" width="40" /></a>
 <a href="https://instagram.com/gopikrishnashetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gopikrishnashetty" height="30" width="40" /></a>
